@@ -1,2 +1,0 @@
-# Suma
-Created with CodeSandbox
